@@ -23,9 +23,9 @@ import string
 
 def reflexive_response(string_in):
     start=string.find(string_in,"GET")
-    print start
+    #print start
     end = string.find(string_in,"HTTP")
-    print end
+    #print end
     path= string_in[(start+5):end]
     return path
 
