@@ -19,7 +19,7 @@ form_page = """<head>
 <title>Echo request</title>
 </head>
 <body>
-<form method="GET" action="echo_wsgi.py">
+<form method="GET" action="echo_wsgi_persist.py">
 Message: <input type="text" name="message" size="40">
 <input type="submit" value="Submit">
 </form>
@@ -61,9 +61,9 @@ def application(environ, start_response):
     start_response(status, response_headers)
     # send different page depending on URL path
     path = environ['PATH_INFO'] 
-    if path == '/echo_wsgi.html':
+    if path == '/echo_wsgi_persist.html':
         page = form_page
-    elif path == '/echo_wsgi.py':
+    elif path == '/echo_wsgi_persist.py':
         # get message from URL query string, parse_qs returns a list for each key
         message = \
             urlparse.parse_qs(environ['QUERY_STRING'])['message'][0]
