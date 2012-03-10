@@ -73,7 +73,7 @@ ISS_PAGE=\
 <table border cellpadding=5><tr><td>Risetime</td><td>Duration</td></tr>
 <tr><td>%s</td><td>%s</td></tr></table>
 <h3>This page uses the open-notify api available at <a href=http://open-notify.org/> open-notify.org</a> 
-<br>Programmed by Benjamin Bloss
+<br><br>This page programmed by Benjamin Bloss
 </body>
 </html>
 """
