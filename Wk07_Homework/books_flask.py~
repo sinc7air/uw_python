@@ -30,7 +30,7 @@ def bookIndex():
 def bookDetail(idNumber):
   detail_body='<table border cellpadding=5> <tr> <td> <h3>Book Details:</h3>'
   entry=Shelve.title_info(idNumber)
-  detail_body=detail_body+('</td></tr><tr><td>'.join(['Title: %s' % entry['title'],'Author: %s' % entry['author'],'Publisher: %s' % entry['publisher'],'ISBN: <a href=http://www.isbnsearch.org/isbn/%s>%s</a>' % (entry['isbn'],entry['isbn'])]))
+  detail_body='</td></tr><tr><td>'.join([detail_body,'Title: %s' % entry['title'],'Author: %s' % entry['author'],'Publisher: %s' % entry['publisher'],'ISBN: <a href=http://www.isbnsearch.org/isbn/%s>%s</a>' % (entry['isbn'],entry['isbn'])])
   detail_body=detail_body+'</td></tr></table>'
   return detail_body
   
