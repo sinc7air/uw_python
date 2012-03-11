@@ -9,7 +9,7 @@
 
 import os, socket, sys, calendar, datetime
 
-defaults = ['', '8082']  # '127.0.0.1' here limits connections to localhost
+defaults = ['', '8085']  # '127.0.0.1' here limits connections to localhost
 mime_types = {'.jpg' : 'image/jpg', 
              '.gif' : 'image/gif', 
              '.png' : 'image/png',

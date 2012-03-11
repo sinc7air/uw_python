@@ -1,0 +1,8 @@
+ * Running on http://0.0.0.0:5000/
+ * Restarting with reloader
+70.6.228.248 - - [10/Mar/2012 02:53:05] "GET /index.html HTTP/1.1" 200 -
+70.6.228.248 - - [10/Mar/2012 02:53:05] "GET /favicon.ico HTTP/1.1" 404 -
+70.6.228.248 - - [10/Mar/2012 02:57:08] "GET /index.html HTTP/1.1" 200 -
+70.6.228.248 - - [10/Mar/2012 02:57:09] "GET /favicon.ico HTTP/1.1" 404 -
+173.160.235.41 - - [10/Mar/2012 07:30:34] "GET /index.html HTTP/1.1" 200 -
+173.160.235.41 - - [10/Mar/2012 07:30:34] "GET /favicon.ico HTTP/1.1" 404 -

@@ -25,12 +25,12 @@ server.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 
 server.bind((host,port))
 
-print 'Insert your server is running on Port: %s Message Here, Type to exit' % port
+print 'Your server is running on Port: %s , Type to exit' % port
 server.listen(backlog)
 
 timeout = 10 #Remember the units are [Seconds]
 #input is a list for the select mechanism. Remember sys.stdin isn't Widows compat
-inputList = [server,sys.stdin]
+inputList = [server]
 #Set yor flag to run the main loop
 running = True
 
@@ -54,12 +54,13 @@ while running:
 
             #The other initial input device being listened for is the keyboard
             #If the keyboard (or anything redirected to stdin) is used, handle that
-            elif s==sys.stdin:
+            #Have to comment all stdin code out to get this to run with nohup?!
+            ##elif (s.isatty() and s==sys.stdin):
                 #Remember this won't work for windows
-                junk = sys.stdin.readline()
+                ##junk = sys.stdin.readline()
                 #Set flag to False to drop out of the loop
-                running = False
-                print "Input: %s detected from stdin, Terminating." % junk.strip('\n')
+                ##running = False
+                #print "Input: %s detected from stdin, Terminating." % junk.strip('\n')
 
             #otherwise you should be only handling client sockets
             elif s:

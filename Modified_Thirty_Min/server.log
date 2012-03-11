@@ -1,0 +1,533 @@
+starting  on 8085...
+GET /date.html HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com/
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /date.html
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET /date.html HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Cache-Control: max-age=0
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com/
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /date.html
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET /date.html HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com/
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /date.html
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET /date.html HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Cache-Control: max-age=0
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com:8085/date.html
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /date.html
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET /date.html HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Cache-Control: max-age=0
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com:8085/date.html
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /date.html
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET /date.html HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Cache-Control: max-age=0
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com:8085/date.html
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /date.html
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET /date.html HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Cache-Control: max-age=0
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com:8085/date.html
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /date.html
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET /date.html HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Cache-Control: max-age=0
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com:8085/date.html
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /date.html
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET /date.html HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Cache-Control: max-age=0
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com:8085/date.html
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /date.html
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET /date.html HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Cache-Control: max-age=0
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com:8085/date.html
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /date.html
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET / HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com/
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET /date.html HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com/
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /date.html
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /favicon.ico
+GET / HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+
+Referer: http://block335027-tng.blueboxgrid.com/
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+
+
+
+fetching: /
+GET /favicon.ico HTTP/1.1
+
+Host: block335027-tng.blueboxgrid.com:8085
+
+Connection: keep-alive
+
+Accept: */*
+
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/535.11 (KHTML, like Gecko) Ubuntu/11.10 Chromium/17.0.963.65 Chrome/17.0.963.65 Safari/535.11
+
+Accept-Encoding: gzip,deflate,sdch
+
+Accept-Language: en-US,en;q=0.8
+
+Accept-Charse

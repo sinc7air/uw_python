@@ -1,0 +1,9 @@
+{% if details_list %}
+    <ul>
+    {% for book_key, book_value in details_list %}
+        <li><br>{{ book_key }}: {{ book_value }}</li>
+    {% endfor %}
+    </ul>
+{% else %} 
+    <p> No details are available.</p>
+{% endif %}

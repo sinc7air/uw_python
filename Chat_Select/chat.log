@@ -1,0 +1,5 @@
+Chat Server listening on port 50003, to exit type [Enter]
+Traceback (most recent call last):
+  File "Chat_select_server.py", line 51, in <module>
+    junk = sys.stdin.readline()
+IOError: [Errno 9] Bad file descriptor
