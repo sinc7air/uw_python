@@ -1,0 +1,5 @@
+Your server is running on Port: 50004 , Type to exit
+Traceback (most recent call last):
+  File "NetTemplate.py", line 69, in <module>
+    data = s.recv(size)
+AttributeError: 'file' object has no attribute 'recv'

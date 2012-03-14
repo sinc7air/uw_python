@@ -1,0 +1,13 @@
+[11/Mar/2012 23:22:08] "GET /books/5/ HTTP/1.1" 200 184
+[11/Mar/2012 23:22:10] "GET /books/ HTTP/1.1" 200 511
+[11/Mar/2012 23:26:06] "GET /books/ HTTP/1.1" 200 511
+[11/Mar/2012 23:26:08] "GET /books/1/ HTTP/1.1" 200 176
+[12/Mar/2012 17:36:22] "GET /books/ HTTP/1.1" 200 511
+[12/Mar/2012 17:36:25] "GET /books/1/ HTTP/1.1" 200 176
+[12/Mar/2012 17:36:31] "GET /books/1/ HTTP/1.1" 200 176
+[12/Mar/2012 17:36:38] "GET /admin/ HTTP/1.1" 200 5963
+[12/Mar/2012 17:36:44] "GET /admin/books/book/ HTTP/1.1" 200 3950
+[12/Mar/2012 17:36:48] "GET /admin/books/book/add/ HTTP/1.1" 200 4086
+[12/Mar/2012 17:36:57] "GET /admin/books/book/add/ HTTP/1.1" 200 4086
+[12/Mar/2012 17:36:57] "GET /admin/jsi18n/ HTTP/1.1" 200 803
+[12/Mar/2012 17:37:09] "GET /books/ HTTP/1.1" 200 511

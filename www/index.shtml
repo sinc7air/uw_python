@@ -1,0 +1,43 @@
+<html>
+<head>
+<title>Central Index for bbloss: Internet Programming in Python</title>
+</head>
+<body>
+<h2>Benjamin Bloss' Homework Assignments for Internet Programming in Python (Winter 2012):</h2>
+<table border cellpadding=5>
+	<caption>Assignments By Week</caption>
+	<tr align=center><td>Class</td><td>Problem Statement</td><td>My Solution Code</td><td>Port</td><td>Link</td><td>Notes</td></tr>
+	<tr align=left><td>Week 1</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week01/assignment.txt>GitHub Setup</a></td>
+		<td><a href=https://github.com/bbloss/uw_python>bbloss at Github</td><td>N/A</td><td>N/A</td><td>N/A</td></tr>
+	<tr><td>Week 2</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week02/assign02.txt>Chat</a></td>
+		<td><a href=/Week02HW/NetTemplate.py>NetTemplate.py</a></td><td>50004</td><td>Use Client =&gt</a></td>
+		<td>Based on template sockets I made from class notes and code.<br> Use this client:<a href=/Week02HW/Net_Select_Client_template.py>Net_Select_Client_template.py</a><br>Usage:<br>python Net_Select_Client_template.py block335027-tng.blueboxgrid.com 50004</td></tr>
+	<tr><td>Week 3</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week03/web_developer.txt>Development Tools</a></td>
+		<td>N/A</a></td><td>N/A</td><td>Running on: N/A</a></td>
+		<td>Used Chrom(-ium) Dev Tools</td></tr>
+	<tr><td>Week 4</td>
+		<td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week04/thirty_minute_webserver.txt>Modified Thirty Min Web Server</a></td>
+		<td><a href=/Week04HW/Modified_Thirty_Min.py>Modified_Thirty_Min.py</a></td><td>8085</td><td><a href=http://block335027-tng.blueboxgrid.com:8085/date.html>Date Example</a><br>or<br><a href=http://block335027-tng.blueboxgrid.com:8085>Serving Files</a></td>
+		<td>Only the date.html / time.html URLs are implemented (easy) assignment. Running Python files may be implemented later.</td></tr>
+	<tr><td>Week 5</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week05/webclient.txt>Webclient / API</a></td>
+		<td><a href=/Week05HW/web_api.py>web_api.py</a><br><a href=/Week05HW/ISS_30_Min.py>ISS_30_Min.py </a></td><td>8087</td><td><a href=http://block335027-tng.blueboxgrid.com:8087/iss.html>Track the ISS at /iss.html</a></td>
+		<td>web_api.py contains the functions and class used within ISS_30_Min.py to serve the iss.html page. <br>
+		ISS_30_Min.py is a further modified copy of last week's already Modified 30 min webserver</td></tr>
+	<tr><td>Week 6</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week06/wsgi_assignment.txt>WSGI Server</a></td>
+		<td><a href=/Week06HW/echo_wsgi_persist.py>echo_wsgi_persist.py</a></td><td>50005</td><td><a href=http://block335027-tng.blueboxgrid.com:50005/echo_wsgi_persist.html>Echo WSGI Persist</a></td>
+		<td>After posting data using the form you must either manually return to the form or edit the url to submit additional messages. All messages since the server was started are displayed on the resulting page.<br>&gt; I also installed apache on my server&#59; that's how you're viewing this page.</td></tr>
+	<tr><td>Week 7</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week07/books.txt>Books in the Flask</a></td>
+		<td><a href=/Week07HW/books_flask.py>books_flask.py</a></td><td>5000</td><td><a href=http://block335027-tng.blueboxgrid.com:5000/index.html>Running Here</a></td>
+		<td>Main Page is /index.html</td></tr>
+	<tr><td>Week 8</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week08/books_django.txt>Django Books</a></td>
+		<td>See Git Hub</td><td>8000</td><td><a href=http://block335027-tng.blueboxgrid.com:8000/books>Book Index</a></td>
+		<td>This took quite some doing, but learned quite a bit in the process.</td></tr>
+	<tr><td>Week 9</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week09/books_django_2.txt>Extend Django Books</a></td>
+		<td><a href=null>N/A</a></td><td>8000</td><td>See Previous Week</a></td>
+		<td>See Previous week.</td></tr>
+
+
+</table>
+
+</body>
+</html>

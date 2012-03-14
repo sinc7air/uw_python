@@ -33,3 +33,6 @@
 70-6-228-248.pools.spcsdns.net - - [10/Mar/2012 02:44:49] "GET /favicon.ico HTTP/1.1" 200 110
 70-6-228-248.pools.spcsdns.net - - [10/Mar/2012 02:57:05] "GET /echo_wsgi_persist.html HTTP/1.1" 200 215
 70-6-228-248.pools.spcsdns.net - - [10/Mar/2012 02:57:06] "GET /favicon.ico HTTP/1.1" 200 110
+173-160-235-41-Washington.hfc.comcastbusiness.net - - [11/Mar/2012 23:26:42] "GET /echo_wsgi_persist.html HTTP/1.1" 200 215
+173-160-235-41-Washington.hfc.comcastbusiness.net - - [11/Mar/2012 23:26:42] "GET /favicon.ico HTTP/1.1" 200 110
+spider-100-43-83-154.yandex.com - - [13/Mar/2012 07:19:41] "GET /robots.txt HTTP/1.1" 200 109

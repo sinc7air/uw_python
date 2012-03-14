@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Central Index for bbloss: Internet Programming in Python</title>
+</head>
+<body>
+<h2>Weekly Assignments:</h2>
+<table border cellpadding=5>
+	<caption>Assignments By Week</caption>
+	<tr align=center><td>Class</td><td>Problem Statement</td><td>My Solution Code</td><td>Port</td><td>Link</td><td>Notes</td></tr>
+	<tr align=left><td>Week 1</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week01/assignment.txt>GitHub Setup</a></td>
+		<td><a href=https://github.com/bbloss/uw_python>bbloss at Github</td><td>N/A</td><td>N/A</td><td>N/A</td></tr>
+	<tr><td>Week 2</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week02/assign02.txt>Chat</a></td>
+		<td><a href=/home/class/uw_python/uw_python/Net_Template/NetTemplate.py>NetTemplate.py</a></td><td>50004</td><td><a href=block335027-tng.blueboxgrid.com>Running on: block335027-tng.blueboxgrid.com</a></td>
+		<td>Based on template sockets I made from class notes and code.<br> Use this client:<a href=/home/class/uw_python/uw_python/Net_Template/Net_Select_Client_template.py>Net_Select_Client_template.py</a><br>Useage:<br>python Net_Select_Client_template.py block335027-tng.blueboxgrid.com 50004</td></tr>
+	<tr><td>Week 3</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week03/web_developer.txt>Development Tools</a></td>
+		<td><a href=null>N/A</a></td><td>N/A</td><td><a href=[linktoserver]>Running on: N/A</a></td>
+		<td>Used Chrom(-ium) Dev Tools</td></tr>
+	<tr><td>Week 4</td>
+		<td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week04/thirty_minute_webserver.txt>Modified Thirty Min Web Server</a></td>
+		<td><a href=null>[Filename#4]</a></td><td>[Port#4]</td><td><a href=[linktoserver]>Running on: [ServerName]</a></td>
+		<td>[Notes#4]</td></tr>
+	<tr><td>Week 5</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week05/webclient.txt>Webclient / API</a></td>
+		<td><a href=null>[Filename#5]</a></td><td>[Port#5]</td><td><a href=[linktoserver]>Running on: [ServerName]</a></td>
+		<td>[Notes#5]</td></tr>
+	<tr><td>Week 6</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week06/wsgi_assignment.txt>WSGI Server</a></td>
+		<td><a href=null>[Filename#6]</a></td><td>[Port#6]</td><td><a href=[linktoserver]>Running on: [ServerName]</a></td>
+		<td>[Notes#6]</td></tr>
+	<tr><td>Week 7</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week07/books.txt>Books in the Flask</a></td>
+		<td><a href=null>[Filename#7]</a></td><td>[Port#7]</td><td><a href=[linktoserver]>Running on: [ServerName]</a></td>
+		<td>[Notes#7]</td></tr>
+	<tr><td>Week 8</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week08/books_django.txt>Django Books</a></td>
+		<td><a href=null>[Filename#8]</a></td><td>[Port#8]</td><td><a href=[linktoserver]>Running on: [ServerName]</a></td>
+		<td>[Notes#8]</td></tr>
+	<tr><td>Week 9</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week02/assign02.txt>[Assignment#9]</a></td>
+		<td><a href=null>[Filename#9]</a></td><td>[Port#9]</td><td><a href=[linktoserver]>Running on: [ServerName]</a></td>
+		<td>[Notes#9]</td></tr>
+	<tr><td>Week 10</td><td><a href=http://jon-jacky.github.com/uw_python/winter_2012/week02/assign02.txt>[Assignment#10]</a></td>
+		<td><a href=null>[Filename#10]</a></td><td>[Port#10]</td><td><a href=[linktoserver]>Running on: [ServerName]</a></td>
+		<td>[Notes#10]</td></tr>
+
+
+</table>
+
+</body>
+</html>
